@@ -1,2 +1,2 @@
 # ai-sketch-app
-here, I made an ai which draw anything you type on textbar.
+Here, I made an ai agent which draw anything you write on searchbar.
